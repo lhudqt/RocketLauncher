@@ -1,0 +1,3 @@
+pyqt6
+minecraft_launcher_lib
+requests
