@@ -7,9 +7,6 @@
 </div>
 
 ## Download
-Download from [Releases](https://github.com/lhudqt/RocketLauncher/releases) and execute it.
-
-or
 
 Run it yourself using the source code:
 1. Download and unzip it
