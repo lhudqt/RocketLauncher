@@ -2,7 +2,7 @@
 
 # 🚀 Rocket Launcher
 
-**A Pythonic Minecraft Launcer that allows you to login into other people's minecraft accounts using a Session ID**
+**A Pythonic Minecraft Launcer that allows you to login into other people's Minecraft accounts using a Session ID**
 
 </div>
 
